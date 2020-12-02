@@ -6,14 +6,14 @@ HOW TO SETUP:
 
 Firstly, drag the program from downloads to another place on your PC (Documents/Desktop)
 
-The program will need one things to run:
+The program will need one thing to run:
 
 		ADMINISTRATOR ACCESS
 		If you aren't an Admin on your PC, I can't help you.
 		
 1. You can run it by right clicking and selecting, "Run as administrator"
-	or
-	You can open "task scheduler" > click on "create a basic task" > name "usersettings" or what ever you'd like > set the trigger to "when I log on" > set the action to "start a 		program" > for the program/script select "usersettings.bat" > on the Finish page, check the box that says, "Open the Properties dialog for this task when I click Finish" and now 	click the Finish button.
+or
+You can open "task scheduler" > click on "create a basic task" > name "usersettings" or what ever you'd like > set the trigger to "when I log on" > set the action to 		"start a program" > for the program/script select "usersettings.bat" > on the Finish page, check the box that says, "Open the Properties dialog for this task when I 		click Finish" and now click the Finish button.
 
 2. Once the properties menu is open, navigate to the general tab and check the box for "Run with Highest privileges", then click on triggers and create a new trigger > Begin the task "At startup" and click OK. You're now ready to dodge those limits! Enjoy.
 
